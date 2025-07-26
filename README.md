@@ -1,7 +1,9 @@
 # Finance Optimal Execution & Deep RL Project
 
 <!-- Project illustration (add your image to the repo and update the path below) -->
-![Project Overview](text_images/1_YzStLuSTn90DxBmm2Ncy0A.png)
+<p align="center">
+  <img src="text_images/1_YzStLuSTn90DxBmm2Ncy0A.png" width="600"/>
+</p>
 
 This project explores optimal execution of portfolio transactions using the Almgren-Chriss model and modern deep reinforcement learning (DRL) methods.
 
