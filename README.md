@@ -25,28 +25,6 @@ This project explores optimal execution of portfolio transactions using the Almg
   - `utils.py` — Helper functions for experiments and plotting.
   - Training results for each RL agent can be accessed in the `4-DRL.ipynb` notebook.
 
-## Getting Started
-
-1. **Clone the repository**  
-   ```
-   git clone https://github.com/Mariihmp/finance.git
-   cd finance
-   ```
-
-2. **Install dependencies**  
-   - Python 3.8+
-   - `pip install -r requirements.txt` (create this file as needed)
-   - For RL experiments: `pip install torch stable-baselines3 gymnasium`
-
-3. **Run Notebooks**  
-   Open notebooks in Jupyter or VS Code for interactive exploration.
-
-4. **Train RL Agents**  
-   Example:
-   ```
-   python train.py --agent DDPG --episodes 5000 --risk_lambda 1e-6
-   ```
-
 ## Project Highlights
 
 - Almgren-Chriss optimal execution model.
